@@ -1,1 +1,2 @@
 Hallo mein Name ist Alessandro
+Notiz: Ich arbeite gerade an meiner ersten Git-Aufgabe.
